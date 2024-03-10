@@ -7,5 +7,5 @@ Countries with the lowest suicide rates in the year 2000
 Amount of suicides per year in ascending order(according to this research suicide rates have been drastically decreasing over the past decade)
 ![suicidebyyears](https://github.com/godoistvan/suicidedata/assets/58178031/8a31b3cd-c3cb-4c14-b036-5b4d12bfd4cd)
 Countries represented by suicide rate in the year 2000 on a world map, countries without data are shown with a lightgrey color
-![map](https://github.com/godoistvan/suicidedata/assets/58178031/cda64c72-10ea-4227-b819-9f1c6a9b7b43)
+![map](https://github.com/godoistvan/suicidedata/assets/58178031/cda64c72-10ea-4227-b819-9f1c6a9b7b43) 
 
